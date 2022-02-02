@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643767454 source:c:\users\pc\desktop\projects\artificial_vision\floor_occupation\main.cpp
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/highgui/highgui.hpp"
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
