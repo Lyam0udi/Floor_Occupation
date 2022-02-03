@@ -11,7 +11,9 @@ Take an image at the input and return as well as starting pixels (the seeds) in 
 ![alt text](https://github.com/LyamoudiIlias/Floor_Occupation/blob/main/img.jpeg)
 
 # The output image 
+
 The result in the output depends on the starting seeds and the threshold.
 ![alt text](https://github.com/LyamoudiIlias/Floor_Occupation/blob/main/output_img.jpeg)
 
+In this case we affected more germs:
 ![alt text](https://github.com/LyamoudiIlias/Floor_Occupation/blob/main/output_test.jpeg)
